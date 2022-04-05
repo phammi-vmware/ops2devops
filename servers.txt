@@ -1,0 +1,4 @@
+Student ID 8
+Public IP 52.59.7.79
+K8S Public 52.59.7.79
+K8S Private 10.0.1.18
